@@ -17,7 +17,7 @@ setup(
     ],
     entry_points={
         "console_scripts": [
-            "md5sum_script=md5sum_script.script:main",
+            "md5sum_compare=md5sum_compare.main:main",
         ],
     },
     classifiers=[
