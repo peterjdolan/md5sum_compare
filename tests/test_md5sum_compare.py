@@ -1,8 +1,7 @@
 import pytest
 import os
 import tempfile
-import asyncio
-from md5sum_compare.md5sum_compare import (
+from md5sum_compare.main import (
     md5sum_async,
     process_file,
     generate_manifest,

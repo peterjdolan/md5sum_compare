@@ -1,0 +1,1 @@
+from md5sum_compare.main import compare, generate_manifest
