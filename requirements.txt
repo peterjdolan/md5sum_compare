@@ -1,0 +1,5 @@
+aiofiles
+pandas
+pytest
+pytest-asyncio
+tqdm
